@@ -8,7 +8,7 @@
 
 <AnchorPane xmlns="http://javafx.com/javafx"
             xmlns:fx="http://javafx.com/fxml"
-            fx:controller="com.milkvita.oopmilkvita.RetailerDashboardView"
+            fx:controller="com.milkvita.oopmilkvita.InventoryControllerDashboardView"
             prefHeight="400.0" prefWidth="600.0">
 
 </AnchorPane>
